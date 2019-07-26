@@ -1,14 +1,14 @@
 {
   "files": {
     "main.css": "/jumplama/static/css/main.55cd0fb3.chunk.css",
-    "main.js": "/jumplama/static/js/main.45f306e4.chunk.js",
-    "main.js.map": "/jumplama/static/js/main.45f306e4.chunk.js.map",
+    "main.js": "/jumplama/static/js/main.426988ce.chunk.js",
+    "main.js.map": "/jumplama/static/js/main.426988ce.chunk.js.map",
     "runtime~main.js": "/jumplama/static/js/runtime~main.820e7d12.js",
     "runtime~main.js.map": "/jumplama/static/js/runtime~main.820e7d12.js.map",
     "static/js/2.76a03bfc.chunk.js": "/jumplama/static/js/2.76a03bfc.chunk.js",
     "static/js/2.76a03bfc.chunk.js.map": "/jumplama/static/js/2.76a03bfc.chunk.js.map",
     "index.html": "/jumplama/index.html",
-    "precache-manifest.ccdd404ed32b8caa61299c29a7cc824b.js": "/jumplama/precache-manifest.ccdd404ed32b8caa61299c29a7cc824b.js",
+    "precache-manifest.b8d06824a69b4c23fa878e6474a86ec1.js": "/jumplama/precache-manifest.b8d06824a69b4c23fa878e6474a86ec1.js",
     "service-worker.js": "/jumplama/service-worker.js",
     "static/css/main.55cd0fb3.chunk.css.map": "/jumplama/static/css/main.55cd0fb3.chunk.css.map",
     "static/media/block.png": "/jumplama/static/media/block.f7a0aaaf.png",
