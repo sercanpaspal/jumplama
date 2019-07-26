@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "79a662e8ab5334b698a97e6c3f3846fe",
+    "revision": "c9f5bea7e14fac768f63843947d68589",
     "url": "/jumplama/index.html"
   },
   {
-    "revision": "b9413248ac205c7b72dc",
+    "revision": "8e0ddc19713deb6e4b3e",
     "url": "/jumplama/static/css/main.55cd0fb3.chunk.css"
   },
   {
-    "revision": "b19744fe909b8eeeeec9",
-    "url": "/jumplama/static/js/2.0d7b2981.chunk.js"
+    "revision": "16a43926d912c73b9faf",
+    "url": "/jumplama/static/js/2.76a03bfc.chunk.js"
   },
   {
-    "revision": "b9413248ac205c7b72dc",
-    "url": "/jumplama/static/js/main.74ab7dca.chunk.js"
+    "revision": "8e0ddc19713deb6e4b3e",
+    "url": "/jumplama/static/js/main.45f306e4.chunk.js"
   },
   {
     "revision": "54688bf56de1c94453a1",
