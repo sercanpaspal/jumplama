@@ -22,7 +22,7 @@ export default class Player extends Sprite {
     update(){
         super.update();
 
-        if(Input.GetKeyDown(" ") || Input.GetMouseButtonDown(0)) this.onMove();
+        if(Input.GetKeyDown(" ") || Input.GetMouseButtonDown(0) || Input.GetTouchDown()) this.onMove();
 
         this.towards = this.x > (Game.canvas.width / 2) ? true : false;
 
