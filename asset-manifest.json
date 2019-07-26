@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/jumplama/static/css/main.55cd0fb3.chunk.css",
+    "main.js": "/jumplama/static/js/main.74ab7dca.chunk.js",
+    "main.js.map": "/jumplama/static/js/main.74ab7dca.chunk.js.map",
+    "runtime~main.js": "/jumplama/static/js/runtime~main.820e7d12.js",
+    "runtime~main.js.map": "/jumplama/static/js/runtime~main.820e7d12.js.map",
+    "static/js/2.0d7b2981.chunk.js": "/jumplama/static/js/2.0d7b2981.chunk.js",
+    "static/js/2.0d7b2981.chunk.js.map": "/jumplama/static/js/2.0d7b2981.chunk.js.map",
+    "index.html": "/jumplama/index.html",
+    "precache-manifest.494208f4e43ecfdf083a285218b74507.js": "/jumplama/precache-manifest.494208f4e43ecfdf083a285218b74507.js",
+    "service-worker.js": "/jumplama/service-worker.js",
+    "static/css/main.55cd0fb3.chunk.css.map": "/jumplama/static/css/main.55cd0fb3.chunk.css.map",
+    "static/media/block.png": "/jumplama/static/media/block.f7a0aaaf.png",
+    "static/media/red-bonus.png": "/jumplama/static/media/red-bonus.6fe51ce6.png"
+  }
+}
